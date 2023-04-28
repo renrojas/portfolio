@@ -229,9 +229,24 @@ body {
   }
   
   #main-card {
-    max-width: 100%;
+    width: 100%;
   }
 
   .project-images{
-    width: 75%;
+    width: 100%;
   }
+  @media only screen and (max-width: 600px) {
+    #portfolio-picture {
+        border: 10px solid var(--light);
+        padding: 10px;
+    }
+    .project-images {
+        width: 100%
+    }
+    .project {
+        width: 100%
+    }
+    .main-project {
+        width: 100%
+    }
+}
