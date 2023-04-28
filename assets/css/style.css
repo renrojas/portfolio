@@ -8,7 +8,7 @@
 }
 
 body {
-    margin: 0;
+    margin: 0 0 20px 0;
     padding: 0;
     font-family: verdana, tahoma, sans-serif;
     color: var(--light);
@@ -94,7 +94,7 @@ body {
   .item {
     margin: 1rem;
     font-size: 36px;
-    color: #f65dc5
+    color: var(--secondary)
   }
   
   .link:link,
@@ -103,7 +103,7 @@ body {
     font-size: 3rem;
     font-weight: 300;
     padding: 1rem 2rem;
-    color: pink;
+    color: var(--light);
     text-decoration: none;
     text-transform: uppercase;
     background-image: linear-gradient(
@@ -187,14 +187,28 @@ body {
     text-decoration: none;
     color: inherit;
   }
+  #name{
+    font-size: 40px;
+    color: var(--primary);
+    text-shadow: 2px 4px 4px var(--dark);
+  }
+  #title{
+    font-size: 20px;
+    color: var(--light);
+    text-shadow: 2px 2px 2px var(--dark);
+  }
+
   #portfolio-picture {
     position: relative;
     margin: 30px 20px 10px 55px;
     display: block;  
     margin-left: auto;  
     margin-right: auto;
-    border: 50% var(--light);   
-    padding:5px;
+    border: 20px solid var(--light);   
+    padding:20px;
+    width: 30%;
+    box-shadow: 5px 10px 5px var(--dark);
+
   }
   .project {
     display:inline-block;
@@ -202,18 +216,22 @@ body {
     box-sizing: border-box;
     margin: 10px;
   }
+
   .flex-container {
     display:flex;
     flex-wrap: wrap;
     justify-content: space-around;
   }
+
   .main-project {
     margin-left:auto;
     margin-right:auto;
   }
+  
   #main-card {
     max-width: 100%;
   }
-  img {
+
+  .project-images{
     width: 75%;
   }
