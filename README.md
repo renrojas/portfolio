@@ -2,7 +2,7 @@
 
 ## Description
 
-The creation of this project was to showcase work samples as well as introduce a little about me for potential employers. Core skills that were used while creating this project were media queries, CSS variables, and flexbox. Media queries were used to resize and adapt certain parts of the page depending on the screen size it is shown in. CSS variables were used to show when values were reused throughout the code multiple times, for example in colors used throughout the code. The flex box is used to design a flexible container layout that arranges items in rows or columns either expanding or shrinking in space to fill or fit in the conatiner.
+The creation of this project was to showcase work samples as well as introduce a little about me for potential employers. Core skills that were used while creating this project were media queries, CSS variables, and flexbox. Media queries were used to resize and adapt certain parts of the page depending on the screen size it is shown in. CSS variables were used to show when values were reused throughout the code multiple times, for example in colors used throughout the code. The flex box is used to design a flexible container layout that arranges items in rows or columns either expanding or shrinking in space to fill or fit in the container.
 
 ## Installation
 
@@ -11,7 +11,7 @@ Project deployed on GitHub Pages:
 
 ## Usage
 
-To navigate this wepage you can click on the hamburger menu on the top right of the page and choose between the "About Me", "My Work", "Contact Me", or "Resume" links.  Provide instructions and examples for use. Include screenshots as needed.
+To navigate this webpage you can click on the hamburger menu on the top right of the page and choose between the "About Me", "My Work", "Contact Me", or "Resume" links.
 
 ![alt text](./assets/images/screenshot-portfolio.png)
 
@@ -20,7 +20,7 @@ To navigate this wepage you can click on the hamburger menu on the top right of 
 
 https://codepen.io/alvarotrigo/pen/QWqKOdb - Hamburger Menu
 
-https://www.w3schools.com/css/css_rwd_mediaqueries.asp - Media queries
+https://www.w3schools.com/css/css_rwd_mediaqueries.asp - Media Queries
 
 https://www.w3schools.com/css/css3_variables.asp - CSS Variables
 
