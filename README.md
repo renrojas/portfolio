@@ -1,4 +1,4 @@
-# <Ren Portfolio>
+# Ren Portfolio
 
 ## Description
 
