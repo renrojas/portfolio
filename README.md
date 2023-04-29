@@ -7,7 +7,7 @@ The creation of this project was to showcase work samples as well as introduce a
 ## Installation
 
 Project as a repository on GitHub: https://github.com/renrojas/portfolio
-Project deployed on GitHub Pages: 
+Project deployed on GitHub Pages: https://renrojas.github.io/portfolio/
 
 ## Usage
 
